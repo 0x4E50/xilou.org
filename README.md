@@ -28,20 +28,36 @@
 
 ## Timeline
 
-2011年3月12日，大麦社(西楼博客前身)localhost 内测，并做好上线准备。
-      3月18日，经过了很长时间的测试，终于正式上线了
+2011年1月1日，新年新计划，准备独立建站
+
+	3月12日，大麦社(西楼博客前身)localhost 内测，并做好上线准备。
+
+	3月18日，经过了很长时间的测试，终于正式上线了
+      
       7月17日，购买了新的主机，原来的数据全部挂掉，从头开始
+      
 2012年1月1日，新年快乐
+
       2月12日，改变风格，改变主题
-      3月11日，更换域名，之前的域名阴错阳差的挂掉了，PR 清零(在此要特别感谢[恒创主机](http://my.henghost.com/aff.php?aff=025 "恒创主机"))
+	
+      3月11日，更换域名，之前的域名阴错阳差的挂掉了，PR 清零
+	
       5月3日，Google PR 更新为2。
+	
       12月30日，购买了恒创主机香港PHP空间，并进行部分数据迁移。
+	
       12月31日，解析域名，迁移主题，上线测试。
+	
 2013年1月1日，新的一年，新的开始
-      6月，博客更新速度变慢，有时一两个月更新一篇文章，持续到2014年，可能会有改观
+
+      6月，博客更新速度变慢，有时一两个月更新一篇文章，持续到2014年，可能会有改观。
+	
 2014年1月1日，新的一年，新的开始，为自己的未来努力奋斗，加油！
+
       3月1日，上线全新主题，小清新风格。
+	
 2015年2月16日，[可乐蛋](http://colaegg.com/ "可乐蛋")上线测试
+
 2018年，[豆子先生](https://ibean.club)（西楼博客国内备案版）上线，购入[QAQ.li](https://qaq.li) 域名，筹备QAQ.li短域名服务
 
 2019年11月25日，备份全部数据，来日再战。
@@ -54,8 +70,6 @@
 
 如果你想交换友情链接，抱歉，目前不接受链接交换，毕竟这里只有一个单页;-)
 
-出售域名：qaq.li
-
 西楼博客过去全部文章数据（不包括隐私数据）将在近期打包至Github（不能保证日期），欢迎留意并下载。
 
 ## 感谢
@@ -63,4 +77,4 @@
 感谢过去一直陪伴我的各位朋友：[尚磊的博客](http://shanglei.net/ "尚磊的博客")
 
 感谢[C7V5](https://c7sky.com/wordpress-theme-minty.html "C7V5主题")主题支持，[WordPress](https://www.wordpress.org/ "Wordpress.org")和[恒创科技](https://www.hcunit.com/xilou "恒创科技")强力驱动。
-感谢[GitHub Pages](https://pages.github.com/ "GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.")托管本页。
+感谢[GitHub Pages](https://pages.github.com/ "GitHub Pages Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.")托管本页。
